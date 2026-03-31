@@ -3,21 +3,21 @@
 ### 기술스택
 
 <p align="center">
-    <img src="img/htmx.svg" />
-    <img src="img/tailwindcss.svg" />
-    <img src="img/javascript.svg" />
-    <img src="img/typescript.svg" />
-    <img src="img/react.svg" />
-    <img src="img/xcode.svg" />
-    <img src="img/androidstudio.svg" />
+    <img src="img/htmx.svg" width="50"/>
+    <img src="img/tailwindcss.svg" width="50"/>
+    <img src="img/javascript.svg" width="50"/>
+    <img src="img/typescript.svg" width="50"/>
+    <img src="img/react.svg" width="50"/>
+    <img src="img/xcode.svg" width="50"/>
+    <img src="img/androidstudio.svg" width="50"/>
 </p>
 
 ### 공부중...
 
 <p align="center">
-    <img src="img/flutter.svg" />
-    <img src="img/opengl.svg" />
-    <img src="img/threedotjs.svg" />
+    <img src="img/flutter.svg" width="50"/>
+    <img src="img/opengl.svg" width="50"/>
+    <img src="img/threedotjs.svg" width="50"/>
 </p>
 
 ### contact
