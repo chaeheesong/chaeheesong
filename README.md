@@ -1,16 +1,24 @@
-## Hi there 👋
+[![blur](docs/samples/blur.svg)](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Blur&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
 
-<!--
-**chaeheesong/chaeheesong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 기술스택
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="img/htmx.svg" />
+    <img src="img/tailwindcss.svg" />
+    <img src="img/javascript.svg" />
+    <img src="img/typescript.svg" />
+    <img src="img/react.svg" />
+    <img src="img/xcode.svg" />
+    <img src="img/androidstudio.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 공부중...
+
+<p align="center">
+    <img src="img/flutter.svg" />
+    <img src="img/opengl.svg" />
+    <img src="img/threedotjs.svg" />
+</p>
+
+### contact
+
